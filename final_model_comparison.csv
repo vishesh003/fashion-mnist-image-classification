@@ -1,0 +1,4 @@
+Model,Test accuracy (%),Test loss
+Basic MLP,87.22,0.3935
+Deep MLP,87.73,0.4027
+CNN,91.02,0.2873
